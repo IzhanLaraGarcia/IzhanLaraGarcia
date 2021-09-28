@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Top grade DAW**
 
-- 👨‍💻 All of my projects are available at [briefcase](https://izhanl8.glitch.me/)
+- 👨‍💻 All of my projects are available at me [briefcase](https://izhanl8.glitch.me/)
 
 - 📫 How to reach me **_laragarcia@cifpfbmoll.eu or izhanlaragarcia@gmail.com**
 
