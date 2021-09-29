@@ -5,20 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izhanlaragarcia" alt="izhanlaragarcia" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@izhan_l8" target="blank"><img src="https://img.shields.io/twitter/follow/@izhan_l8?logo=twitter&style=for-the-badge" alt="@izhan_l8" /></a> </p>
+<p align="left"> <a href="https://twitter.com/izhan_l8" target="blank"><img src="https://img.shields.io/twitter/follow/izhan_l8?logo=twitter&style=for-the-badge" alt="izhan_l8" /></a> </p>
 
 - 🔭 I’m currently working on **my studies**
 
 - 🌱 I’m currently learning **Top grade DAW**
 
-- 👨‍💻 All of my projects are available at me [briefcase](https://izhanl8.glitch.me/)
+- 👨‍💻 All of my projects are available at [https://izhanl8.glitch.me/](https://izhanl8.glitch.me/)
 
 - 📫 How to reach me **_laragarcia@cifpfbmoll.eu or izhanlaragarcia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@izhan_l8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@izhan_l8" height="30" width="40" /></a>
+<a href="https://twitter.com/izhan_l8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izhan_l8" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/izhan lara garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="izhan lara garcia" height="30" width="40" /></a>
+<a href="https://fb.com/izhan lara garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="izhan lara garcia" height="30" width="40" /></a>
 <a href="https://instagram.com/izhan.l8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izhan.l8" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/izhan.l8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="izhan.l8" height="30" width="40" /></a>
 <a href="https://discord.gg/5262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5262" height="30" width="40" /></a>
 </p>
 
