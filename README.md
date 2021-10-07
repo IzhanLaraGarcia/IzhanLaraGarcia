@@ -26,7 +26,7 @@
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/izhanlaragarcia)  
+
 
 
 <h3 align="left">Languages and Tools:</h3>
