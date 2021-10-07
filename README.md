@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FP Superior DAW**
 
-- 👨‍💻 All of my projects are available at me [website](https://izhanl8.glitch.me/)
+- 👨‍💻 All of my projects are available at me [website](izhanlaragarcia.github.io)
 
 - 📫 How to reach me **_laragarcia@cifpfbmoll.eu or izhanlaragaracia@gmail.com**
 
